@@ -36,7 +36,7 @@ git clone https://github.com/ayoubchwt/TL-WR.git
         <img width="300" alt="Extension Menu before" src="https://github.com/user-attachments/assets/53134826-6b8c-42a6-93f1-1909dddd4c59" />
     </td>
     <td align="center">
-        <img width="300" alt="Random reddit post" src="https://github.com/user-attachments/assets/a1342b69-e173-47d2-b272-b6d30880a294" />
+        <img width="300" alt="Random reddit post" src="https://github.com/user-attachments/assets/de86bbc3-1b11-4c7e-a092-15325b342866" />
     </td>
     <td align="center">
         <img width="300" alt="Extension Menu after" src="https://github.com/user-attachments/assets/356f5211-eb0d-48e4-b6f6-cb6c117a53a9" /> 
