@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "TL;WR",
+  "version": "1.0",
+  "description": "TL;WR is a browser extention that makes reading reddit posts easier and more fun",
+  "icons": {
+    "96": "icons/logo.png"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["*://*.reddit.com/*"],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tlwr@eclipse.com",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "action": {
+    "default_popup": "src/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.reddit.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
