@@ -20,7 +20,6 @@ The easiest way to use **TL;WR** is to install it from the official store:
 **1. Clone the repository :**
 ```bash
 git clone https://github.com/ayoubchwt/TL-WR.git
-git checkout firefox
 ```
 **2. Load into Firefox:**
 
