@@ -69,12 +69,13 @@ Since **TL;WR** is built with Vanilla JS, it's very easy to jump in! You don't n
 6.  **Push to the Branch** (`git push origin feature/AmazingFeature`).
 7.  **Open a Pull Request**.
 
-### Found a Bug?
+## Found a Bug?
 If you find a bug or have a feature request, please [open an issue](https://github.com/ayoubchwt/TL-WR/issues) first to discuss what you would like to change.
 
+## Development Transparency
+This project was built through hands-on development, experimentation, debugging, and iterative problem-solving. AI tools, when used, served as supplementary assistance throughout the development process.
 
-# License
-
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
